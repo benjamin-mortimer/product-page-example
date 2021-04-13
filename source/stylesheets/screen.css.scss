@@ -2,7 +2,7 @@
 
 $govuk-assets-path: "/assets/govuk/assets/";
 
-@import "govuk/all";
+@import "node_modules/govuk-frontend/govuk/all";
 
 @import "modules/borders";
 @import "modules/breadcrumbs";
